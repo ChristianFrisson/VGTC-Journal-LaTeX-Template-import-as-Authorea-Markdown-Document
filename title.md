@@ -1,1 +1,1 @@
-VGTC Journal LaTeX Template import as Mark Authorea Document
+VGTC Journal LaTeX Template import as Markdow Authorea Document
