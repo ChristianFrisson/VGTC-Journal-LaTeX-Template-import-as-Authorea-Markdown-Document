@@ -1,1 +1,1 @@
-Global Illumination for Fun and Profit
+VGTC Journal LaTeX Template import as LaTeX Authorea Document
